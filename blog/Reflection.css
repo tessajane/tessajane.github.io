@@ -1,0 +1,20 @@
+body {
+    background-color: lavenderblush;
+}
+P {
+    font-size: 20px;
+    text-align: Left;
+    margin: 3rem;
+    line-height: 0.8cm;
+    margin-bottom: -0.6cm;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+} 
+h1 {
+    font-size: 50px;
+    text-align: left;
+    margin: 3rem;
+    margin-bottom: -0.5cm;
+    color: plum;
+    font-family: 'Montserrat', sans-serif;
+}
