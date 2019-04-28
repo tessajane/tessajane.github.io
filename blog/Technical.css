@@ -7,21 +7,21 @@
     left: 0;
     background-color:black;
     padding-top: 20px;
-}
+    }
 .sidenav a {
     padding: 4px 10px 10px 30px;
     display: inline;
     color:cornsilk;
     font-size: 20px;
     font-family: 'Raleway', sans-serif;
-}
+    }
 body {
-    background-color: rgb(118, 194, 196);
+    background-color:rgb(118, 194, 196);
     display: block;
     margin: 5px;
 }
 .main-headings {
-    color: cornsilk;  
+color: cornsilk;   
 }
 h1 {
     font-size: 40px;
@@ -32,7 +32,7 @@ h1 {
     margin-top: 100px;
     margin-bottom: 5px;
     color: cornsilk;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 h2 {
     font-size: 30px;
@@ -54,7 +54,30 @@ h3 {
     color: cornsilk;
     font-family: 'Montserrat', sans-serif;
 }
-P {
+ P {
+    font-size: 20px;
+    text-align: Left;
+    margin-left: 20px;
+    margin-right: 20px;
+    line-height: 0.8cm;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: black;
+    font-family: 'Montserrat', sans-serif;  
+}
+img {
+    display: block;
+    align-items: left;
+    width: 6cm;
+    height: 6cm;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1cm;
+    margin-bottom: 0.5cm;  
+}
+li {
+    display: block;
     font-size: 20px;
     text-align: Left;
     margin-left: 20px;
@@ -64,4 +87,5 @@ P {
     margin-bottom: 10px;
     color: black;
     font-family: 'Montserrat', sans-serif;
-} 
+}
+
