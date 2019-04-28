@@ -1,34 +1,46 @@
 body {
-    background-color: lavenderblush;
-    text-align: center;
+    background-image: url(blog/bunnies.jpeg);
+    max-width: 100%;
+    padding: 0px;
+    background-size: cover;
 }
-head {
-    font-family: 'Raleway', sans-serif;
-    font-family: 'Playfair Display', serif;
+.sidenav {
+    display: flex;
+    width: 100%;
+    height: 60px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: green;
+    padding-top: 20px;
 }
-    h1 {
-    font-size: 100px;
-    margin-bottom: 0.5cm;
-    Margin-top: 0.5cm;
-    color: plum;
-    font-family: 'Raleway', sans-serif;
-    }
-    div {
+.sidenav a {
+    padding: 4px 10px 10px 30px;
+    display: inline;
+    color:cornsilk;
     font-size: 20px;
-    color: lightpink;
-    font-family: 'Arvo', serif;
-    }
-    p {
-    font-size: 30px;
-    color: gray;
-    font-family: 'Playfair Display', serif;  
-    }
-    img {
-    width: 11cm;
-    height: 11cm;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    font-family: 'Raleway', sans-serif;
+}
+.main-headings {
+    color: black;
+}
+.sub-headings {
+    color: black;
+}
+h1 {
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    font-size: 50px;
+    text-align: centre;
+    margin-top: 7cm;
+    margin-left: 18cm;
+   
+}
+h2 {
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    font-size: 40px;
+    text-align: centre;
     margin-top: 0.5cm;
-    margin-bottom: 0.5cm;
-    }
+    margin-left: 18cm;   
+}
