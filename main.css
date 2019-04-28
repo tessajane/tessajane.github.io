@@ -1,5 +1,5 @@
 body {
-    background-image: url(blog/bunnies.jpeg);
+    background-image: url(blog/books.jpeg);
     max-width: 100%;
     padding: 0px;
     background-size: cover;
@@ -11,7 +11,7 @@ body {
     position: fixed;
     top: 0;
     left: 0;
-    background-color: green;
+    background-color: black;
     padding-top: 20px;
 }
 .sidenav a {
@@ -22,25 +22,29 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 .main-headings {
-    color: black;
+    color: white;
+    text-align: left
 }
 .sub-headings {
-    color: black;
+    color: rgba(255, 80, 0, 0.927);
 }
 h1 {
     font-family: 'Raleway', sans-serif;
-    color: black;
-    font-size: 50px;
-    text-align: centre;
-    margin-top: 7cm;
-    margin-left: 18cm;
-   
+    color: white;
+    font-size: 60px;
+    text-align: left;
+    margin-top: 120px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+    
 }
 h2 {
     font-family: 'Raleway', sans-serif;
     color: black;
     font-size: 40px;
     text-align: centre;
-    margin-top: 0.5cm;
-    margin-left: 18cm;   
+    margin-top: 30px;
+    margin-left: 130px;   
+    
 }
+
