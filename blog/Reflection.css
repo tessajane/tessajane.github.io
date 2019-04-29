@@ -16,12 +16,12 @@
     font-family: 'Raleway', sans-serif;
 }
 body {
-    background-color: rgb(118, 194, 196);
+    background-color: white;
     display: block;
     margin: 5px;
 }
 .main-headings {
-    color: cornsilk;  
+    color: rgba(255, 80, 0, 0.927); 
 }
 h1 {
     font-size: 40px;
@@ -31,7 +31,7 @@ h1 {
     line-height: 0.8cm;
     margin-top: 100px;
     margin-bottom: 5px;
-    color: cornsilk;
+    color: rgba(255, 80, 0, 0.927);
     font-family: 'Montserrat', sans-serif;
 }
 h2 {
@@ -41,7 +41,7 @@ h2 {
     line-height: 0.8cm;
     margin-top: 20px;
     margin-bottom: 5px;
-    color: cornsilk;
+    color: rgba(255, 80, 0, 0.927);
     font-family: 'Montserrat', sans-serif;
 }
 h3 {
@@ -51,7 +51,7 @@ h3 {
     line-height: 0.8cm;
     margin-top: 20px;
     margin-bottom: 5px;
-    color: cornsilk;
+    color: rgba(255, 80, 0, 0.927);
     font-family: 'Montserrat', sans-serif;
 }
 P {
