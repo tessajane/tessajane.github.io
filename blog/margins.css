@@ -1,0 +1,13 @@
+body {
+    background-color: white;
+}
+div.experiment {
+    width: 400px;
+    height: 800px;
+    background-color: blue;
+}
+div.baseline {
+    width: 400px;
+    height: 80px;
+    background-color: red;
+}
