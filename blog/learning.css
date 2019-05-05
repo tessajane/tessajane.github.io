@@ -1,19 +1,22 @@
 .sidenav {
-    display: flex;
+    display: inline-block;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
     width: 100%;
     height: 60px;
     position: fixed;
     top: 0;
     left: 0;
-    background-color:black;
-    padding-top: 20px;
+    background-color: black;
+    padding-top: 30px;
+    font-family: 'Montserrat', sans-serif;
 }
 .sidenav a {
-    padding: 4px 10px 10px 30px;
+    padding: 10px 10px 10px 30px;
     display: inline;
     color:cornsilk;
     font-size: 20px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 body {
     background-color: white;
@@ -31,6 +34,7 @@ h1 {
     line-height: 0.8cm;
     margin-top: 100px;
     margin-bottom: 5px;
+    padding-top: 20px;
     color: rgba(255, 80, 0, 0.927);
     font-family: 'Montserrat', sans-serif;
 }
